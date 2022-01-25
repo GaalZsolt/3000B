@@ -1,6 +1,5 @@
-print('5. Mennyi a sorozatban található számok átlagának a fele?')
-
 def feladat5(lista):
+    print('5. Mennyi a sorozatban található számok átlagának a fele?')
     sum = 0
     for e in lista:
         sum+=int(e)
